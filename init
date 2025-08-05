@@ -1,0 +1,5 @@
+remote desktop uset vb.net vs 2015
+terdiri dari 2 aplikasi server dan client.
+aplikasi server berbasi servis tidak memiliki gui, tetapi memiliki konfigurasi file listing ip dan port
+aplikasi client mirip anydesk memiliki gui
+aplikasi ini bisa view screen dan mengontrol melalui keyboard dan mouse
