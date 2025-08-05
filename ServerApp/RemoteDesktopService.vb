@@ -64,6 +64,7 @@ Public Class RemoteDesktopService
         While running
             Dim line As String = reader.ReadLine()
             If String.IsNullOrEmpty(line) Then Continue While
+
             Dim parts As String() = line.Split("|")
             Select Case CStr(parts(0))
                 Case "MOUSEDOWN"
